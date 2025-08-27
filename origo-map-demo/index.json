@@ -132,7 +132,7 @@
       "name": "origo-cities",
       "title": "Origokommuner",
       "group": "root",
-      "source": "https://github.com/origo-map/origo/blob/master/data/origo-cities-3857.geojson",
+      "source": "data/origo-cities-3857.geojson",
       "style": "origo-logo",
       "type": "GEOJSON",
       "attributes": [
@@ -148,7 +148,7 @@
       "title": "origo-mask",
       "group": "none",
       "queryable": false,
-      "source": "https://github.com/origo-map/origo/blob/master/data/origo-mask-3857.geojson",
+      "source": "data/origo-mask-3857.geojson",
       "style": "mask",
       "type": "GEOJSON",
       "visible": true
